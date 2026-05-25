@@ -1,0 +1,912 @@
+{
+  "round": 71,
+  "level": "basic",
+  "choice_count": 4,
+  "total": 50,
+  "parse_failed_numbers": [],
+  "image_dependent_count": 31,
+  "image_rendered_count": 50,
+  "image_only_pdf": false,
+  "questions": [
+    {
+      "id": "R71-B-Q01",
+      "round": 71,
+      "level": "basic",
+      "number": 1,
+      "question": "(가) 시대의 생활 모습으로 가장 적절한 것은? 선사 문화 축제 안내 주요 체험 활동 우리 박물관에서는 농경과 목축이 ● 빗살무늬 토기 만들기 시작된 (가) 시대를 체험해 볼 수 있는 축제를 개최합니다. 많은 관심과 참여 바랍니다. ● 갈돌과 갈판으로 곡식 갈기 ■ 기간: 2024년 ◯◯월 ◯◯일~◯◯일 ■ 장소:   선사 박물관",
+      "choices": [
+        "가락바퀴를 이용하여 실을 뽑았다.",
+        "철제 농기구를 만들어 농사를 지었다.",
+        "지배층의 무덤으로 고인돌을 만들었다.",
+        "거푸집을 사용하여 청동기를 제작하였다."
+      ],
+      "answer": 1,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-01.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q02",
+      "round": 71,
+      "level": "basic",
+      "number": 2,
+      "question": "다음 퀴즈의 정답으로 옳은 것은? 한국사 퀴즈 대회 단궁, 과하마, 반어피 등이 특산물 제시된 힌트를 1단계 종합하여 알 수 있는 이었습니다. 나라의 이름은 2단계 무천이라는 제천 행사를 열었습니다. 무엇일까요? 3단계 책화의 풍습이 있었습니다.",
+      "choices": [
+        "동예",
+        "마한",
+        "부여",
+        "옥저 1"
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-02.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q03",
+      "round": 71,
+      "level": "basic",
+      "number": 3,
+      "question": "다음 대본에 등장하는 왕의 업적으로 옳은 것은? 역사 연극 대본 #2. 황룡사 창건을 명하다 신하: 월성 동쪽에서 궁을 짓던 중 황룡이 나타났다고 합니다. 왕: 무척 신기한 일이구나. 공사를 멈추고, 그곳에 절을 지어 황룡사라는 이름을 붙이도록 하라. …… #7. 화랑도 정비를 논의하다 왕: 국가를 흥하게 하려면 청년들의 힘이 필요하다. 재주와 덕행이 있는 자들을 뽑아 화랑이라 할 것이다. 신하: 네, 훌륭한 인물을 찾아보겠습니다.",
+      "choices": [
+        "주자감을 설립하였다.",
+        "왜에 칠지도를 보냈다.",
+        "김흠돌의 난을 진압하였다.",
+        "북한산에 순수비를 세웠다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-03.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q04",
+      "round": 71,
+      "level": "basic",
+      "number": 4,
+      "question": "다음 가상 일기의 주인공으로 옳은 것은? \b ◯◯월\b◯◯일 오늘도\b나랏일을\b돌보느라\b힘든\b하루였다.\b하지만\b 왕으로\b즉위한\b후\b지금까지\b내가\b한\b일을\b생각하니\b 뿌듯하다.\b수도를\b웅진에서\b사비로\b옮겨\b나라\b발전을\b 꾀하였고,\b국호를\b남부여로\b바꾸기도\b하였다.\b그리고\b 최근에는\b 고구려에\b 빼앗겼던\b 한강\b 유역\b 일부를\b 수복하였다.\b되찾은\b소중한\b영토를\b반드시\b지켜야겠다.",
+      "choices": [
+        "성왕",
+        "무령왕",
+        "근초고왕",
+        "소수림왕"
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-04.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q05",
+      "round": 71,
+      "level": "basic",
+      "number": 5,
+      "question": "(가) 나라에 대한 설명으로 옳은 것은? 화면에 표시한 부분은 김해 구지봉입니다. 김수로의 (가) 건국 설화에 등장하는 곳이지요. 낙동강 하류에 위치한 (가) 에서는 철이 풍부하게 생산되었습니다. 영상 한국사 생생방방송송 중중",
+      "choices": [
+        "낙랑군, 왜와 활발히 교류하였다.",
+        "중경에서 상경으로 도읍을 옮겼다.",
+        "화백 회의라 불리는 합의 기구가 있었다.",
+        "사회 질서를 유지하기 위해 범금 8조를 만들었다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-05.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q06",
+      "round": 71,
+      "level": "basic",
+      "number": 6,
+      "question": "(가) 국가에 대한 설명으로 옳은 것은? 문화유산 기념품 제작 공모 제안서 제안자: ◯ ◯ ◯ 개요: 수 도 국내성을 중심으로 영토를 넓혀 나갔던 (가) 의 대표적인 문화유산을 소재로 다음과 같이 기념품 제작을 제안합니다. 문화유산 기념품 광개토 대왕릉비 조명등 안악 3호분 행렬도 반팔 티셔츠",
+      "choices": [
+        "독서삼품과를 실시하였다.",
+        "지배자를 마립간이라고 불렀다.",
+        "정사암에서 국가 중대사를 결정하였다.",
+        "태학과 경당을 두어 인재를 양성하였다. 2"
+      ],
+      "answer": 4,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-06.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q07",
+      "round": 71,
+      "level": "basic",
+      "number": 7,
+      "question": "다음 자료를 활용한 탐구 주제로 가장 적절한 것은? ○ 주 와 군에서 세금을 바치지 않아 나라의 창고가 텅 비어, 왕이 관리를 보내 독촉하니 곳곳에서 도적들이 벌떼처럼 일어났다. 이때 원종과 애노 등이 사벌주에서 반란을 일으켰다. ○ 도 적들이 나라의 서남쪽에서 일어났다. 그들은 붉은색 바지를 입어 모습을 다르게 하였으므로 적고적이라고 불렸다. 여러 고을을 공격하여 해를 입혔다.",
+      "choices": [
+        "백제의 불교 수용",
+        "신라 말의 사회 동요",
+        "고구려 부흥 운동의 전개",
+        "삼국과 일본의 문화 교류"
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-07.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q08",
+      "round": 71,
+      "level": "basic",
+      "number": 8,
+      "question": "(가)에 들어갈 인물로 옳은 것은? 학습 주제: 신라의 유학자 (가) 이 사람은 한자의 음과 뜻을 신문왕에게 원효 대사의 빌려 우리말을 표기한 화왕계를 지어 아들입니다. 이두를 체계화했어요. 바쳤어요.",
+      "choices": [
+        "강수",
+        "설총",
+        "의상",
+        "혜초"
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-08.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q09",
+      "round": 71,
+      "level": "basic",
+      "number": 9,
+      "question": "(가) 국가에 대한 설명으로 옳은 것은? 이것은 문왕의 둘째 딸인 정혜 공주의 무덤에서 발견된 묘지석 탁본입니다. 묘지의 내용 중 문왕을 황상으로 표현하고 보력이라는 독자적 연호를 사용한 점에서 (가) 이/가 황제국을 표방하였음을 알 수 있습니다.",
+      "choices": [
+        "안시성에서 당의 군대를 물리쳤다.",
+        "여러 가(加)들이 각각 사출도를 다스렸다.",
+        "청해진을 중심으로 해상 무역을 전개하였다.",
+        "5경 15부 62주의 지방 행정 제도를 마련하였다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-09.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q10",
+      "round": 71,
+      "level": "basic",
+      "number": 10,
+      "question": "(가)~(다)를 일어난 순서대로 옳게 나열한 것은? 만화로 보는 후삼국 시대 우리 신라의 이곳 완산주에 이곳 고창에서 운수가 다하였으니, 도읍하여 의자왕의 공산 전투의 패배를 신하로 받아 주시길 억울함을 풀겠다. 되갚아 주었다. 바랍니다. 견훤 경순왕 유금필 (가) (나) (다)",
+      "choices": [
+        "(가) - (나) - (다)",
+        "(가) - (다) - (나)",
+        "(나) - (가) - (다)",
+        "(다) - (가) - (나) 3"
+      ],
+      "answer": 2,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-10.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q11",
+      "round": 71,
+      "level": "basic",
+      "number": 11,
+      "question": "(가)에 들어갈 내용으로 옳은 것은? •고‌‌려‌제4대‌왕 •광‌‌덕‌등‌독자적인‌연호를‌ 사용함 •‌‌ (가) •처‌ 음으로‌과거‌제도를‌ 실시함 •관‌ 리의‌공복을‌제정함 (앞면) (뒷면)",
+      "choices": [
+        "녹읍을 폐지함",
+        "훈요 10조를 남김",
+        "노비안검법을 시행함",
+        "전민변정도감을 설치함"
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-11.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q12",
+      "round": 71,
+      "level": "basic",
+      "number": 12,
+      "question": "(가) 국가에 대한 설명으로 옳은 것은? 이 수월관음도는 정교한 문양과 화려한 장식 표현, 금가루를 이용한 채색 방식이 특징입니다. (가) 시대에 제작된 이 불화는 당시의 수준 높은 예술성을 보여 주는 귀중한 작품입니다.",
+      "choices": [
+        "22담로에 왕족을 파견하였다.",
+        "주요한 5곳에 소경을 설치하였다.",
+        "국경 지역에 동계와 북계를 두었다.",
+        "9서당 10정의 군사 조직을 운영하였다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-12.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q13",
+      "round": 71,
+      "level": "basic",
+      "number": 13,
+      "question": "밑줄 그은 ‘왕’의 재위 시기에 있었던 사실로 옳은 것은? ○ 강 조가 정변을 일으켜 새로운 왕을 옹립하였다. ○ 거 란이 서경을 공격하여 아군이 패하였다는 소식을 듣고, 왕이 나주로 피란하였다. ○ 강 감찬이 거란을 물리치고 돌아오자, 왕이 몸소 영파역에 나아가 그를 맞이하였다.",
+      "choices": [
+        "교정도감이 설치되었다.",
+        "농사직설이 편찬되었다.",
+        "초조대장경이 제작되었다.",
+        "이자겸의 난이 발생하였다."
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-13.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q14",
+      "round": 71,
+      "level": "basic",
+      "number": 14,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-14.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R71-B-Q15",
+      "round": 71,
+      "level": "basic",
+      "number": 15,
+      "question": "다음 사건이 일어난 시기를 연표에서 옳게 고른 것은? 우리 고향 차라리 죽을지언정 공주 명학소를 현으로 굴복하지 않고 승격해 줄 땐 언제고 개경까지 진격하겠다! 다시 군대를 보내 토벌하러 오다니! 망이 망소이 1135 1170 1232 1356 1388 (가) (나) (다) (라) 묘청의 무신 강화도 쌍성총관부 위화도 난 정변 천도 수복 회군",
+      "choices": [
+        "(가)",
+        "(나)",
+        "(다)",
+        "(라)"
+      ],
+      "answer": 2,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-15.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q16",
+      "round": 71,
+      "level": "basic",
+      "number": 16,
+      "question": "(가) 시기에 있었던 사실로 옳은 것은? 형인 대여진 금국 황제가 여진의 군사는 좋소. 아우인 고려 국왕에게 문서를 기병이나 우리는 경의 뜻대로 보낸다. …… 형제의 의를 보병이 주력입니다. 기병 중심의 맺기 바란다. 우리도 기병을 별무반을 양성해야 조직하시오. 합니다.  (가)  숙종 예종",
+      "choices": [
+        "윤관이 동북 9성을 축조하였다.",
+        "서희가 강동 6주 지역을 확보하였다.",
+        "최무선이 진포에서 왜구를 물리쳤다.",
+        "김윤후가 충주성 전투에서 승리하였다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-16.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q17",
+      "round": 71,
+      "level": "basic",
+      "number": 17,
+      "question": "(가)에 들어갈 행사로 옳은 것은? 역사 신문 제△△호 ◯◯◯◯년 ◯◯월 ◯◯일 (가) , 개경에서 성대하게 열리다 며칠 전 고려의 국가 행사인 (가) 이/가 개경 궁궐에서 성대하게 열렸다. 일찍이 태조는 부처를 받들고 여러 신들을 즐겁게 하는 이 행사의 중요성을 후대 왕들에게 강조하였다고 전한다. 행사 기간 동안 왕은 태조의 제사를 지내고 신하들과 함께 춤과 노래 등 공연을 즐겼다. 주변 여러 나라의 상인과 사신들도 찾아와 특산물을 바쳤다.",
+      "choices": [
+        "영고",
+        "단오제",
+        "팔관회",
+        "종묘 제례"
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-17.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q18",
+      "round": 71,
+      "level": "basic",
+      "number": 18,
+      "question": "교사의 질문에 대한 학생의 답변으로 옳은 것은? 고려의 경제 상황에 대해 말해 볼까요?",
+      "choices": [
+        "감자, 고구마",
+        "활구라고 등의 작물이 널리 불리는 은병이 재배되었어요. 사용되었어요.",
+        "시장을 감독하기",
+        "만상, 내상 위한 동시전이 등이 무역을 설치되었어요. 하였어요. 5"
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-18.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q19",
+      "round": 71,
+      "level": "basic",
+      "number": 19,
+      "question": "(가) 국왕의 재위 시기에 있었던 사실로 옳은 것은? 이곳은 태조 이성계의 계비 신덕 왕후의 무덤인 정릉입니다. 왕자의 난을 일으켜 신덕 왕후가 낳은 동생들을 제거하고 사병을 혁파했던 (가) 이/가 즉위 후 원래 정동에 있던 것을 지금의 위치로 옮겼습니다.",
+      "choices": [
+        "현량과가 실시되었다.",
+        "호패법이 시행되었다.",
+        "경국대전이 반포되었다.",
+        "5군영 체제가 완성되었다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-19.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q20",
+      "round": 71,
+      "level": "basic",
+      "number": 20,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-20.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R71-B-Q21",
+      "round": 71,
+      "level": "basic",
+      "number": 21,
+      "question": "밑줄 그은 ‘이 제도’로 옳은 것은? 전하께서 과전을 개혁하여 이 제도를 실시하라고 명하셨습니다. 본래 과전은 사대부를 기르기 위함입니다. 그런데 이 제도가 실시되면 현직 관리들만 수조권을 받게 되어 대를 이어 왕을 섬기는 신하가 없게 될 것입니다. 세조 양성지",
+      "choices": [
+        "균역법",
+        "영정법",
+        "직전법",
+        "호포법"
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-21.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q22",
+      "round": 71,
+      "level": "basic",
+      "number": 22,
+      "question": "(가)에 들어갈 용어로 옳은 것은? 한국사 용어 사전 검색어 (가) 검색 결과 각 지역의 토산물을 정기적으로 수취해 국가 수요품을 조달하던 제도 이다. 본래 지역에서 생산되는 물품을 거두는 것이 원칙이었으나, 해당 고을에서 나지 않는 물품이 부과되기도 하였다. …… 조선 시대에는 (가) 을/를 시행하는 과정에서 나타난 문제점을 해결하기 위해 다양한 대책을 논의한 결과, 대동법이 실시되었다.",
+      "choices": [
+        "공납",
+        "군역",
+        "전세",
+        "환곡"
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-22.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q23",
+      "round": 71,
+      "level": "basic",
+      "number": 23,
+      "question": "(가) 전쟁 중에 있었던 사실로 옳은 것은? 역사 인물 카드 • 이름: 강항 • 생몰: 1567년~1618년 • 호: 수은, 사숙재 • 주요 활동 - 일 본의 침략으로 시작된 (가) 당시 전라도 영광에서 의병을 모집함 - (가) 때 포로로 잡혀간 후, 일본 학자와 교류하며 일본 성리학 발전에 기여함",
+      "choices": [
+        "김종서가 6진을 개척하였다.",
+        "어재연이 광성보에서 항전하였다.",
+        "이종무가 쓰시마섬을 정벌하였다.",
+        "이순신이 명량 해전을 승리로 이끌었다. 6"
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-23.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q24",
+      "round": 71,
+      "level": "basic",
+      "number": 24,
+      "question": "밑줄 그은 ‘국왕’의 업적으로 옳은 것은? 지지대비가 있는 이곳은 수원에서 의왕으로 넘어가는 지지대 고개입니다. 아버지 사도 세자의 무덤에 참배하고 이 고개를 넘어 돌아가던 국왕이 아버지를 그리워하며 신하들에게 천천히 가자 했다는 기록이 전합니다. 이에 늦을 지(遲) 자 두 개를 써서 이곳을 지지대 고개라고 부르게 되었습니다.",
+      "choices": [
+        "삼국사기를 편찬하였다.",
+        "훈민정음을 창제하였다.",
+        "초계문신제를 실시하였다.",
+        "통리기무아문을 설치하였다."
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-24.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q25",
+      "round": 71,
+      "level": "basic",
+      "number": 25,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-25.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R71-B-Q26",
+      "round": 71,
+      "level": "basic",
+      "number": 26,
+      "question": "다음 가상 대화의 상황이 나타난 시기에 볼 수 있는 모습으로 적절하지 않은 것은? 전라도 진산 사람 윤지충이 서학을 믿어 도망갔던 윤지충은 어머니의 신주를 불살랐다네. 그 일로 결국 자수를 했고, 며칠 전 조정에서 체포 명령을 내렸다더군. 처형되었다고 하네.",
+      "choices": [
+        "정감록을 읽는 양반",
+        "판소리 공연을 하는 소리꾼",
+        "삼별초의 일원으로 훈련하는 군인",
+        "상평통보로 물건을 구입하는 농민"
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-26.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q27",
+      "round": 71,
+      "level": "basic",
+      "number": 27,
+      "question": "(가)에 들어갈 사건으로 옳은 것은? 역사 동아리 답사 안내 구식 군인의 분노, ‘쌀’에서 폭발하여 ‘개화’를 겨누다 정부의 개화 정책과 차별 대우에 반발하여 구식 군인이 일으킨 (가) 의 현장을 따라가는 답사입니다. ● 일시: 2024년 ◯◯월 ◯◯일 13:00~17:00 ● 경로: 선혜청 터 → 청수관 터 → 옛 동별영 → 하도감 터 창덕궁 경복궁 창경궁 구식 군인이 집결한 곳 종묘 흥인지문 경희궁 옛 동별영 청수관 터 하도감 터 덕수궁 일본 공사관이 있었던 곳 별기군의 훈련 선혜청 터 장소였던 곳 숭례문 구식 군인의 밀린 급료 중 일부를 겨와 모래가 섞인 쌀로 지급했던 곳",
+      "choices": [
+        "갑신정변",
+        "병인양요",
+        "을미사변",
+        "임오군란 7"
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-27.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q28",
+      "round": 71,
+      "level": "basic",
+      "number": 28,
+      "question": "(가)에 들어갈 내용으로 가장 적절한 것은? 조선 시대 서얼에 대해 이야기해 볼까요? 양반의 첩이 (가) 낳은 자식을 말해요.",
+      "choices": [
+        "소속 관청에 신공을 바쳤어요.",
+        "매매, 상속, 증여의 대상이었어요.",
+        "골품에 따라 관등 승진에 제한을 받았어요.",
+        "차별 철폐를 위해 통청 운동을 전개하였어요."
+      ],
+      "answer": 4,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-28.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q29",
+      "round": 71,
+      "level": "basic",
+      "number": 29,
+      "question": "(가) 인물의 활동으로 옳은 것은? 우리 전하께서는 어린 나이에 왕으로 즉위하셔서 (가) (으)로 하여금 백성을 돌보고 살피게 하셨습니다. 그런데 (가) 이/가 경복궁 중건을 위해 부유한 자에게 원납전을 거두었으나 부족하였 습니다. 또한 새롭게 당백전까지 주조하여 백성들의 삶을 힘들게 하였습니다.",
+      "choices": [
+        "척화비를 건립하였다.",
+        "동의보감을 완성하였다.",
+        "신해통공을 실시하였다.",
+        "나선 정벌을 단행하였다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-29.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q30",
+      "round": 71,
+      "level": "basic",
+      "number": 30,
+      "question": "(가)에 들어갈 인물로 옳은 것은? 인물 소개 근현대편 개화의 길을 선택한 (가) 1880년 제2차 수신사로 일본에 파견되었 으며, 황준헌이 쓴 조선책략을 국내에 들여 왔다. 이후 제물포 조약 등을 체결하는 과정 에서 큰 역할을 하였다. 갑오개혁 당시에는 총리대신으로 임명되어 개혁의 전반을 주도 하였다.",
+      "choices": [
+        "김옥균",
+        "김홍집",
+        "서재필",
+        "유인석"
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-30.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q31",
+      "round": 71,
+      "level": "basic",
+      "number": 31,
+      "question": "밑줄 그은 ‘조약’으로 옳은 것은? 원산에 이어 인천이 개항 병자년에 일본과 체결한 조약에 하였는데, 그 배경에 대해 따라 부산 외 두 개 항구를 추가로 알려 주시겠습니까? 개항하기로 했기 때문이지요.",
+      "choices": [
+        "기유약조",
+        "한성 조약",
+        "정미 7조약",
+        "강화도 조약"
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-31.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q32",
+      "round": 71,
+      "level": "basic",
+      "number": 32,
+      "question": "다음 그림 카드를 활용한 학습 주제로 가장 적절한 것은?[ 2점] 옛날에는 전쟁으로 나라가 망했는데, 오늘날에는 조약 때문이다. 우리가 스스로 외교하지 못하고 타인이 대신하니, 이는 나라가 없는 것이다. 조약을 제멋대로 허락한 을사오적은 실로 우리나라 만대의 역적이니, 마땅히 제거해야 한다. 최익현",
+      "choices": [
+        "비변사의 설치",
+        "기묘사화의 발생",
+        "임술 농민 봉기의 발발",
+        "항일 의병 운동의 전개 8"
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-32.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q33",
+      "round": 71,
+      "level": "basic",
+      "number": 33,
+      "question": "(가) 운동 중에 있었던 사실로 옳은 것은? 지금 촬영하고 있는 곳은 장성 황룡 전적입니다. (가) 당시 전봉준이 이끄는 농민군이 중앙에서 파견된 관군을 격파한 곳이지요. 농민군이 들고 있었던 죽창 모양의 황룡촌 전투 기념탑도 보입니다.",
+      "choices": [
+        "독립 협회가 창립되었다.",
+        "전주 화약이 체결되었다.",
+        "백두산정계비가 건립되었다.",
+        "박규수가 안핵사로 파견되었다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-33.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q34",
+      "round": 71,
+      "level": "basic",
+      "number": 34,
+      "question": "다음 기사에 나타난 시기에 볼 수 있는 모습으로 가장 적절한 것은? 역사 신문 제△△호 ◯◯◯◯년 ◯◯월 ◯◯일 전등, 대한 제국의 거리를 밝히다 동대문 발전소에서 전등 개설식이 거행되었다. 2년 전 서대문과 청량리 사이에 최초의 전차를 개통했던 한성 전기 회사는 이번 행사를 위해 특별 전차까지 동원하였다. 작년 에는 종로에 세 개의 가로등만이 점등되었으나, 이제 전선이 연결된 길을 따라 큰 거리도 전등으로 환하게 밝히게 되었다.",
+      "choices": [
+        "경인선 기차를 타고 가는 승객",
+        "텔레비전 뉴스를 보도하는 기자",
+        "박문국에서 한성순보를 인쇄하는 기술자",
+        "라디오 방송을 송출하는 경성 방송국 직원"
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-34.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q35",
+      "round": 71,
+      "level": "basic",
+      "number": 35,
+      "question": "(가) 정책이 추진된 시기에 있었던 사실로 옳은 것은? 이것은 (가) 을/를 위해 설치된 임시 토지 조사국의 국원 양성소 졸업생 사진입니다. 조선 총독부는 식민 통치에 필요한 지세 수취 등을 목적으로 (가) 을/를 시행하였습니다. 이를 위해 임시 토지 조사국원 양성소를 두어 토지 측량 등 실무 담당 인력을 배출하였습니다.",
+      "choices": [
+        "회사령이 시행되었다.",
+        "관민 공동회가 열렸다.",
+        "원산 총파업이 일어났다.",
+        "국가 총동원법이 제정되었다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-35.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q36",
+      "round": 71,
+      "level": "basic",
+      "number": 36,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-36.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R71-B-Q37",
+      "round": 71,
+      "level": "basic",
+      "number": 37,
+      "question": "(가)에 들어갈 내용으로 옳은 것은? 오전 10:50 62% 이달의 독립운동가 8월 방 정 환 (1899년~1931년) 훈격: 애국장 주요 활동 ▶ 경성 청년 구락부를 조직함 ▶ 천도교 소년회 조직 등 소년 운동을 전개함 ▶ (가)",
+      "choices": [
+        "의열단 창설을 주도함",
+        "베를린 올림픽에 참가함",
+        "어린이날 제정에 기여함",
+        "헤이그에 특사로 파견됨"
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-37.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q38",
+      "round": 71,
+      "level": "basic",
+      "number": 38,
+      "question": "밑줄 그은 ‘시기’에 있었던 사실로 옳은 것은? 충남의 한 읍성 발굴 조사 현장에서 황국 신민 서사가 새겨진 돌기둥이 발견되었습니다. 황국 신민 서사는 일제가 중일 전쟁을 일으켜 침략 전쟁을 확대하던 시기에 만들어져 한국인들에게 암송하도록 강요되었습니다. 돌기둥이 발견된 장소가 과거 초등학교 부지였던 것으로 보아 아동을 대상으로 제작된 것으로 추정됩니다. 황국 신민 서사 돌기둥 발견",
+      "choices": [
+        "신간회가 창립되었다.",
+        "신사 참배가 강요되었다.",
+        "교육 입국 조서가 발표되었다.",
+        "동양 척식 주식회사가 설립되었다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-38.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q39",
+      "round": 71,
+      "level": "basic",
+      "number": 39,
+      "question": "(가) 민족 운동에 대한 설명으로 옳은 것은? 이것은 고종의 장례 행렬 모습이 담긴 사진입니다. 고종의 장례 기간 중 일어난 (가) 은/는 탑골 공원 등에서 학생과 시민들의 만세 시위로 시작하여 전국으로 확산하였습니다. 6600%%",
+      "choices": [
+        "청군의 개입으로 진압되었다.",
+        "대한매일신보의 후원을 받았다.",
+        "황국 중앙 총상회를 중심으로 전개되었다.",
+        "대한민국 임시 정부 수립의 계기가 되었다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-39.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q40",
+      "round": 71,
+      "level": "basic",
+      "number": 40,
+      "question": "학생들이 공통으로 이야기하는 민족 운동으로 옳은 것은? 1920년대 이상재 등이 1천만 원을 일제의 감시와 중심이 되어 한국인의 목표로 전국에서 자연재해 등으로 고등 교육 실현을 모금 활동을 모금 활동에 위해 전개하였어. 벌였지. 어려움을 겪었어.",
+      "choices": [
+        "새마을 운동",
+        "국채 보상 운동",
+        "물산 장려 운동",
+        "민립 대학 설립 운동 10"
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-40.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q41",
+      "round": 71,
+      "level": "basic",
+      "number": 41,
+      "question": "다음 기사가 보도된 시기에 볼 수 있는 모습으로 가장 적절한 것은? 제주도에서 소년 축구 대회가 개최 소년 축구 대회가 되었는데, 비가 내려 다음 날로 경기가 국가 체제를 부정하려는 연기되었다. …… 그런데 돌연 경찰이 모임일 리 없는데, 대회의 우승기를 압수하고 주최 측을 올해 제정된 치안 유지법을 조사한 후 개최를 불허하였다. …… 무리하게 적용하려 하다니 너무하는구먼. 경찰은 치안 유지법에 위반될 수도 있다는 이유를 밝혔다.",
+      "choices": [
+        "장용영에서 훈련하는 군인",
+        "군국기무처에서 회의하는 관리",
+        "산미 증식 계획을 추진하는 총독부 직원",
+        "조선 건국 준비 위원회에 참여하는 민족 운동가"
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-41.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q42",
+      "round": 71,
+      "level": "basic",
+      "number": 42,
+      "question": "(가)에 들어갈 단체로 옳은 것은? 오전 09:00 70% 역사 속 오늘 #1월_8일 #대한_독립_만세 1932년 1월 8일은 일본 도쿄에서 (가) 의 단원인 이봉창이 일왕을 향해 폭탄을 던지는 거사를 일으킨 날이다. 좋아요 58 댓글 3 공유하기",
+      "choices": [
+        "보안회",
+        "독립 의군부",
+        "조선어 학회",
+        "한인 애국단"
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-42.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q43",
+      "round": 71,
+      "level": "basic",
+      "number": 43,
+      "question": "밑줄 그은 ‘나’로 옳은 것은? 나는 독립운동을 하던 중 체포되어 형무소에서 수감 생활을 하였소. 이때 부여된 수감 번호를 이름처럼 사용하였다오. 이제 나의 시 ‘광야’를 낭독할 터이니 들어 보시오. 문학으로 만나는 독립운동가",
+      "choices": [
+        "김원봉",
+        "신채호",
+        "이육사",
+        "한용운"
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-43.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q44",
+      "round": 71,
+      "level": "basic",
+      "number": 44,
+      "question": "밑줄 그은 ㉠이 발표된 시기를 연표에서 옳게 고른 것은? 한국사 통합 검색 인공 지능 대화창 ㉠ 유엔 총회 결의안 112호의 내용을 요약해 줘. ㉠ 유엔 총회 결의안 112호에는 한국의 독립 국가 건설을 돕기 위해 유엔 한국 임시 위원단을 설치 한다는 내용이 담겨 있습니다. 이 위원단은 한국에서 처음으로 치러지는 국회 의원 총선거를 감독하는 임무를 가지고 있었습니다. 입력: 1945 1948 1954 1960 1964 (가) (나) (다) (라) 8·15 대한민국 사사오입 3·15 6·3 광복 정부 수립 개헌 부정 선거 시위",
+      "choices": [
+        "(가)",
+        "(나)",
+        "(다)",
+        "(라) 11"
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-44.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q45",
+      "round": 71,
+      "level": "basic",
+      "number": 45,
+      "question": "(가) 정부 시기에 있었던 사실로 옳은 것은? 나는 지금 반민특위가 있었던 장소에 세워진 표석 앞에 와 있어. 반민특위에 대해 알려 줄래? 반민특위는 반민족 행위 특별 조사 위원회의 줄임말이야. 친일파 청산을 위해 다양한 노력을 했지만, 당시 ( 가 ) 정부는 이 위원회의 활동에 상당히 비협조적인 태도를 취했어.",
+      "choices": [
+        "농지 개혁법이 제정되었다.",
+        "최초로 100억 달러 수출이 달성되었다.",
+        "경제 협력 개발 기구(OECD) 가입이 이루어졌다.",
+        "국제 통화 기금(IMF)의 구제 금융 자금이 조기 상환되었다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-45.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q46",
+      "round": 71,
+      "level": "basic",
+      "number": 46,
+      "question": "(가)에 들어갈 민주화 운동으로 옳은 것은? 계엄군과 광주 시민들이 대치하고 있는 전남도청 앞 금남로에 도착하였습니다. (가) 당시 이곳에서 계엄군의 집단 발포로 많은 사상자가 발생하였습니다.",
+      "choices": [
+        "4·19 혁명",
+        "6월 민주 항쟁",
+        "부마 민주 항쟁",
+        "5·18 민주화 운동"
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-46.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q47",
+      "round": 71,
+      "level": "basic",
+      "number": 47,
+      "question": "(가) 정부 시기의 경제 상황으로 옳은 것은? 이것은 경부 고속 도로 순직자 위령탑입니다. (가) 정부 시기 2년 5개월여의 단기간에 진행된 경부 고속 도로 공사 중 77명의 노동자가 사망하였습니다. 이들을 추모하기 위한 위령탑이 금강 나들목 부근에 세워졌습니다.",
+      "choices": [
+        "금융 실명제가 전면 실시되었다.",
+        "칠레와 자유 무역 협정(FTA)이 체결되었다.",
+        "제2차 경제 개발 5개년 계획이 시행되었다.",
+        "저금리·저유가·저달러의 3저 호황이 있었다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-47.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q48",
+      "round": 71,
+      "level": "basic",
+      "number": 48,
+      "question": "다음 뉴스가 보도된 정부 시기에 있었던 사실로 옳은 것은? 내일부터 공식적으로 국민학교라는 명칭이 모두 초등학교로 바뀝니다. 이는 지난해 8월 광복 50주년을 맞아 일제의 잔재를 청산하기 위해 정부가 추진한 정책의 일환입니다. 내일부터‘ 초등학교’",
+      "choices": [
+        "조선 총독부 건물이 철거되었다.",
+        "서울에서 G20 정상 회의가 열렸다.",
+        "이라크에 자이툰 부대가 파병되었다.",
+        "한일 월드컵 축구 대회가 개최되었다. 12"
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": false,
+      "image_url": "/images/round-71-basic/q-48.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q49",
+      "round": 71,
+      "level": "basic",
+      "number": 49,
+      "question": "(가)에 들어갈 내용으로 옳은 것은? 100% 100% 100% 분단 이후 두 번째로 6ㆍ15 남북 공동 선언의 돌아오는 길에 개성 열린 남북 정상 회담을 계승 등 남북 관계 발전 공업 지구를 방문하여 남북 위해 대통령으로서는 과 평화 번영을 위한 경제 협력의 중요성을 처음으로 군사 분계선을 (가) 을/를 강조하였습니다. 걸어서 통과하였습니다. 발표하였습니다. 1/3 2/3 3/3",
+      "choices": [
+        "남북 기본 합의서",
+        "7·4 남북 공동 성명",
+        "10·4 남북 정상 선언",
+        "한반도 비핵화 공동 선언"
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-49.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R71-B-Q50",
+      "round": 71,
+      "level": "basic",
+      "number": 50,
+      "question": "(가)~(다)를 일어난 순서대로 옳게 나열한 것은? 주제로 보는 한국사 제국에서 민국으로 대한국의 정치는 대한민국의 주권은 순종 황제가 주권을 만세불변의 전제 국민에게 있고, 모든 포기한 8월 29일은 정치이며, 대한국 권력은 국민으로부터 황제권이 소멸한 때 대황제는 무한한 나온다. 이자 민권이 발생한 군주권을 누린다. 때이다. 대한국 국제 반포 제헌 헌법 공포 대동단결 선언 발표 (가) (나) (다)",
+      "choices": [
+        "(가) - (나) - (다)",
+        "(가) - (다) - (나)",
+        "(나) - (가) - (다)",
+        "(다) - (가) - (나)"
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-71-basic/q-50.jpg",
+      "image_is_full_page": false
+    }
+  ]
+}

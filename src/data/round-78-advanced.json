@@ -1,0 +1,962 @@
+{
+  "round": 78,
+  "level": "advanced",
+  "choice_count": 5,
+  "total": 50,
+  "parse_failed_numbers": [],
+  "image_dependent_count": 50,
+  "image_rendered_count": 50,
+  "image_only_pdf": true,
+  "questions": [
+    {
+      "id": "R78-A-Q01",
+      "round": 78,
+      "level": "advanced",
+      "number": 1,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-01.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q02",
+      "round": 78,
+      "level": "advanced",
+      "number": 2,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-02.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q03",
+      "round": 78,
+      "level": "advanced",
+      "number": 3,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-03.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q04",
+      "round": 78,
+      "level": "advanced",
+      "number": 4,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-04.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q05",
+      "round": 78,
+      "level": "advanced",
+      "number": 5,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-05.png",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R78-A-Q06",
+      "round": 78,
+      "level": "advanced",
+      "number": 6,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-06.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q07",
+      "round": 78,
+      "level": "advanced",
+      "number": 7,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-07.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q08",
+      "round": 78,
+      "level": "advanced",
+      "number": 8,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-08.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q09",
+      "round": 78,
+      "level": "advanced",
+      "number": 9,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-09.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q10",
+      "round": 78,
+      "level": "advanced",
+      "number": 10,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-10.png",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R78-A-Q11",
+      "round": 78,
+      "level": "advanced",
+      "number": 11,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-11.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q12",
+      "round": 78,
+      "level": "advanced",
+      "number": 12,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-12.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q13",
+      "round": 78,
+      "level": "advanced",
+      "number": 13,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-13.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q14",
+      "round": 78,
+      "level": "advanced",
+      "number": 14,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-14.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q15",
+      "round": 78,
+      "level": "advanced",
+      "number": 15,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-15.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q16",
+      "round": 78,
+      "level": "advanced",
+      "number": 16,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-16.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q17",
+      "round": 78,
+      "level": "advanced",
+      "number": 17,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-17.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q18",
+      "round": 78,
+      "level": "advanced",
+      "number": 18,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-18.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q19",
+      "round": 78,
+      "level": "advanced",
+      "number": 19,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-19.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q20",
+      "round": 78,
+      "level": "advanced",
+      "number": 20,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-20.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q21",
+      "round": 78,
+      "level": "advanced",
+      "number": 21,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-21.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q22",
+      "round": 78,
+      "level": "advanced",
+      "number": 22,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-22.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q23",
+      "round": 78,
+      "level": "advanced",
+      "number": 23,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-23.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q24",
+      "round": 78,
+      "level": "advanced",
+      "number": 24,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-24.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q25",
+      "round": 78,
+      "level": "advanced",
+      "number": 25,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-25.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q26",
+      "round": 78,
+      "level": "advanced",
+      "number": 26,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-26.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q27",
+      "round": 78,
+      "level": "advanced",
+      "number": 27,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-27.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q28",
+      "round": 78,
+      "level": "advanced",
+      "number": 28,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-28.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q29",
+      "round": 78,
+      "level": "advanced",
+      "number": 29,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-29.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q30",
+      "round": 78,
+      "level": "advanced",
+      "number": 30,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-30.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q31",
+      "round": 78,
+      "level": "advanced",
+      "number": 31,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-31.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q32",
+      "round": 78,
+      "level": "advanced",
+      "number": 32,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-32.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q33",
+      "round": 78,
+      "level": "advanced",
+      "number": 33,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-33.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q34",
+      "round": 78,
+      "level": "advanced",
+      "number": 34,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-34.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q35",
+      "round": 78,
+      "level": "advanced",
+      "number": 35,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-35.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q36",
+      "round": 78,
+      "level": "advanced",
+      "number": 36,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-36.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q37",
+      "round": 78,
+      "level": "advanced",
+      "number": 37,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-37.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q38",
+      "round": 78,
+      "level": "advanced",
+      "number": 38,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-38.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q39",
+      "round": 78,
+      "level": "advanced",
+      "number": 39,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-39.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q40",
+      "round": 78,
+      "level": "advanced",
+      "number": 40,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-40.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q41",
+      "round": 78,
+      "level": "advanced",
+      "number": 41,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-41.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q42",
+      "round": 78,
+      "level": "advanced",
+      "number": 42,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-42.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q43",
+      "round": 78,
+      "level": "advanced",
+      "number": 43,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-43.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q44",
+      "round": 78,
+      "level": "advanced",
+      "number": 44,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-44.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q45",
+      "round": 78,
+      "level": "advanced",
+      "number": 45,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-45.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q46",
+      "round": 78,
+      "level": "advanced",
+      "number": 46,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-46.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q47",
+      "round": 78,
+      "level": "advanced",
+      "number": 47,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-47.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q48",
+      "round": 78,
+      "level": "advanced",
+      "number": 48,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-48.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q49",
+      "round": 78,
+      "level": "advanced",
+      "number": 49,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-49.png",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R78-A-Q50",
+      "round": 78,
+      "level": "advanced",
+      "number": 50,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 5,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-78-advanced/q-50.png",
+      "image_is_full_page": false
+    }
+  ]
+}

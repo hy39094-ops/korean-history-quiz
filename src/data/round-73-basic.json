@@ -1,0 +1,912 @@
+{
+  "round": 73,
+  "level": "basic",
+  "choice_count": 4,
+  "total": 50,
+  "parse_failed_numbers": [],
+  "image_dependent_count": 50,
+  "image_rendered_count": 48,
+  "image_only_pdf": true,
+  "questions": [
+    {
+      "id": "R73-B-Q01",
+      "round": 73,
+      "level": "basic",
+      "number": 1,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-01.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q02",
+      "round": 73,
+      "level": "basic",
+      "number": 2,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-02.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q03",
+      "round": 73,
+      "level": "basic",
+      "number": 3,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-03.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q04",
+      "round": 73,
+      "level": "basic",
+      "number": 4,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-04.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q05",
+      "round": 73,
+      "level": "basic",
+      "number": 5,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/page-01.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R73-B-Q06",
+      "round": 73,
+      "level": "basic",
+      "number": 6,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-06.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q07",
+      "round": 73,
+      "level": "basic",
+      "number": 7,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-07.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q08",
+      "round": 73,
+      "level": "basic",
+      "number": 8,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-08.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q09",
+      "round": 73,
+      "level": "basic",
+      "number": 9,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-09.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q10",
+      "round": 73,
+      "level": "basic",
+      "number": 10,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/page-02.jpg",
+      "image_is_full_page": true
+    },
+    {
+      "id": "R73-B-Q11",
+      "round": 73,
+      "level": "basic",
+      "number": 11,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-11.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q12",
+      "round": 73,
+      "level": "basic",
+      "number": 12,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-12.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q13",
+      "round": 73,
+      "level": "basic",
+      "number": 13,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-13.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q14",
+      "round": 73,
+      "level": "basic",
+      "number": 14,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-14.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q15",
+      "round": 73,
+      "level": "basic",
+      "number": 15,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-15.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q16",
+      "round": 73,
+      "level": "basic",
+      "number": 16,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-16.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q17",
+      "round": 73,
+      "level": "basic",
+      "number": 17,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-17.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q18",
+      "round": 73,
+      "level": "basic",
+      "number": 18,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-18.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q19",
+      "round": 73,
+      "level": "basic",
+      "number": 19,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-19.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q20",
+      "round": 73,
+      "level": "basic",
+      "number": 20,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-20.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q21",
+      "round": 73,
+      "level": "basic",
+      "number": 21,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-21.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q22",
+      "round": 73,
+      "level": "basic",
+      "number": 22,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-22.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q23",
+      "round": 73,
+      "level": "basic",
+      "number": 23,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-23.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q24",
+      "round": 73,
+      "level": "basic",
+      "number": 24,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-24.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q25",
+      "round": 73,
+      "level": "basic",
+      "number": 25,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-25.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q26",
+      "round": 73,
+      "level": "basic",
+      "number": 26,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-26.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q27",
+      "round": 73,
+      "level": "basic",
+      "number": 27,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-27.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q28",
+      "round": 73,
+      "level": "basic",
+      "number": 28,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-28.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q29",
+      "round": 73,
+      "level": "basic",
+      "number": 29,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-29.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q30",
+      "round": 73,
+      "level": "basic",
+      "number": 30,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-30.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q31",
+      "round": 73,
+      "level": "basic",
+      "number": 31,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-31.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q32",
+      "round": 73,
+      "level": "basic",
+      "number": 32,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-32.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q33",
+      "round": 73,
+      "level": "basic",
+      "number": 33,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-33.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q34",
+      "round": 73,
+      "level": "basic",
+      "number": 34,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-34.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q35",
+      "round": 73,
+      "level": "basic",
+      "number": 35,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-35.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q36",
+      "round": 73,
+      "level": "basic",
+      "number": 36,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-36.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q37",
+      "round": 73,
+      "level": "basic",
+      "number": 37,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-37.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q38",
+      "round": 73,
+      "level": "basic",
+      "number": 38,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-38.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q39",
+      "round": 73,
+      "level": "basic",
+      "number": 39,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-39.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q40",
+      "round": 73,
+      "level": "basic",
+      "number": 40,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-40.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q41",
+      "round": 73,
+      "level": "basic",
+      "number": 41,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-41.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q42",
+      "round": 73,
+      "level": "basic",
+      "number": 42,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-42.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q43",
+      "round": 73,
+      "level": "basic",
+      "number": 43,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-43.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q44",
+      "round": 73,
+      "level": "basic",
+      "number": 44,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-44.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q45",
+      "round": 73,
+      "level": "basic",
+      "number": 45,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 1,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-45.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q46",
+      "round": 73,
+      "level": "basic",
+      "number": 46,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 3,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-46.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q47",
+      "round": 73,
+      "level": "basic",
+      "number": 47,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-47.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q48",
+      "round": 73,
+      "level": "basic",
+      "number": 48,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 2,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-48.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q49",
+      "round": 73,
+      "level": "basic",
+      "number": 49,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 4,
+      "points": 3,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-49.jpg",
+      "image_is_full_page": false
+    },
+    {
+      "id": "R73-B-Q50",
+      "round": 73,
+      "level": "basic",
+      "number": 50,
+      "question": "",
+      "choices": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "answer": 1,
+      "points": 2,
+      "has_image": true,
+      "image_url": "/images/round-73-basic/q-50.jpg",
+      "image_is_full_page": false
+    }
+  ]
+}

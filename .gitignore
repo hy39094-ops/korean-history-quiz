@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+www/
+.ait/
+
+# PDFs (저작권 + 크기 이슈로 git에 안 올림)
+pdfs/
+
+# 파싱 스크립트가 생성하는 이미지 (재생성 가능 — 현재는 수동 크롭본 포함되어 커밋함)
+# public/images/
+
+# Python (파싱 스크립트용)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
