@@ -37,6 +37,9 @@ const ROUND_ALLOWLIST: Array<{ round: number; level: Level }> = [
   { round: 58, level: "basic" },
   { round: 57, level: "basic" },
   { round: 57, level: "advanced" },
+  { round: 62, level: "advanced" },
+  { round: 60, level: "basic" },
+  { round: 58, level: "advanced" },
 ];
 
 function isAllowed(round: number, level: Level): boolean {
