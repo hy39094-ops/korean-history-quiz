@@ -23,7 +23,7 @@
       "answer": 3,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-01.jpg",
+      "image_url": "/images/round-63-basic/q-01.jpg",
       "image_is_full_page": false
     },
     {
@@ -41,7 +41,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-02.jpg",
+      "image_url": "/images/round-63-basic/q-02.jpg",
       "image_is_full_page": false
     },
     {
@@ -59,7 +59,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-03.jpg",
+      "image_url": "/images/round-63-basic/q-03.jpg",
       "image_is_full_page": false
     },
     {
@@ -77,7 +77,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-04.jpg",
+      "image_url": "/images/round-63-basic/q-04.jpg",
       "image_is_full_page": false
     },
     {
@@ -95,7 +95,7 @@
       "answer": 1,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/page-01.jpg",
+      "image_url": "/images/round-63-basic/page-01.jpg",
       "image_is_full_page": true
     },
     {
@@ -113,7 +113,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-06.jpg",
+      "image_url": "/images/round-63-basic/q-06.jpg",
       "image_is_full_page": false
     },
     {
@@ -131,7 +131,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-07.jpg",
+      "image_url": "/images/round-63-basic/q-07.jpg",
       "image_is_full_page": false
     },
     {
@@ -149,7 +149,7 @@
       "answer": 4,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-08.jpg",
+      "image_url": "/images/round-63-basic/q-08.jpg",
       "image_is_full_page": false
     },
     {
@@ -167,7 +167,7 @@
       "answer": 4,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-09.jpg",
+      "image_url": "/images/round-63-basic/q-09.jpg",
       "image_is_full_page": false
     },
     {
@@ -185,7 +185,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/page-02.jpg",
+      "image_url": "/images/round-63-basic/page-02.jpg",
       "image_is_full_page": true
     },
     {
@@ -203,7 +203,7 @@
       "answer": 3,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-11.jpg",
+      "image_url": "/images/round-63-basic/q-11.jpg",
       "image_is_full_page": false
     },
     {
@@ -221,7 +221,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-12.jpg",
+      "image_url": "/images/round-63-basic/q-12.jpg",
       "image_is_full_page": false
     },
     {
@@ -239,7 +239,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-13.jpg",
+      "image_url": "/images/round-63-basic/q-13.jpg",
       "image_is_full_page": false
     },
     {
@@ -257,7 +257,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-14.jpg",
+      "image_url": "/images/round-63-basic/q-14.jpg",
       "image_is_full_page": false
     },
     {
@@ -275,7 +275,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-15.jpg",
+      "image_url": "/images/round-63-basic/q-15.jpg",
       "image_is_full_page": false
     },
     {
@@ -293,7 +293,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-16.jpg",
+      "image_url": "/images/round-63-basic/q-16.jpg",
       "image_is_full_page": false
     },
     {
@@ -311,7 +311,7 @@
       "answer": 1,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-17.jpg",
+      "image_url": "/images/round-63-basic/q-17.jpg",
       "image_is_full_page": false
     },
     {
@@ -329,7 +329,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-18.jpg",
+      "image_url": "/images/round-63-basic/q-18.jpg",
       "image_is_full_page": false
     },
     {
@@ -347,7 +347,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-19.jpg",
+      "image_url": "/images/round-63-basic/q-19.jpg",
       "image_is_full_page": false
     },
     {
@@ -365,7 +365,7 @@
       "answer": 2,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-20.jpg",
+      "image_url": "/images/round-63-basic/q-20.jpg",
       "image_is_full_page": false
     },
     {
@@ -383,7 +383,7 @@
       "answer": 1,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-21.jpg",
+      "image_url": "/images/round-63-basic/q-21.jpg",
       "image_is_full_page": false
     },
     {
@@ -401,7 +401,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-22.jpg",
+      "image_url": "/images/round-63-basic/q-22.jpg",
       "image_is_full_page": false
     },
     {
@@ -419,7 +419,7 @@
       "answer": 2,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-23.jpg",
+      "image_url": "/images/round-63-basic/q-23.jpg",
       "image_is_full_page": false
     },
     {
@@ -437,7 +437,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-24.jpg",
+      "image_url": "/images/round-63-basic/q-24.jpg",
       "image_is_full_page": false
     },
     {
@@ -455,7 +455,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-25.jpg",
+      "image_url": "/images/round-63-basic/q-25.jpg",
       "image_is_full_page": false
     },
     {
@@ -473,7 +473,7 @@
       "answer": 4,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-26.jpg",
+      "image_url": "/images/round-63-basic/q-26.jpg",
       "image_is_full_page": false
     },
     {
@@ -491,7 +491,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-27.jpg",
+      "image_url": "/images/round-63-basic/q-27.jpg",
       "image_is_full_page": false
     },
     {
@@ -509,7 +509,7 @@
       "answer": 3,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-28.jpg",
+      "image_url": "/images/round-63-basic/q-28.jpg",
       "image_is_full_page": false
     },
     {
@@ -527,7 +527,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-29.jpg",
+      "image_url": "/images/round-63-basic/q-29.jpg",
       "image_is_full_page": false
     },
     {
@@ -545,7 +545,7 @@
       "answer": 1,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-30.jpg",
+      "image_url": "/images/round-63-basic/q-30.jpg",
       "image_is_full_page": false
     },
     {
@@ -563,7 +563,7 @@
       "answer": 1,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-31.jpg",
+      "image_url": "/images/round-63-basic/q-31.jpg",
       "image_is_full_page": false
     },
     {
@@ -581,7 +581,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-32.jpg",
+      "image_url": "/images/round-63-basic/q-32.jpg",
       "image_is_full_page": false
     },
     {
@@ -599,7 +599,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-33.jpg",
+      "image_url": "/images/round-63-basic/q-33.jpg",
       "image_is_full_page": false
     },
     {
@@ -617,7 +617,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-34.jpg",
+      "image_url": "/images/round-63-basic/q-34.jpg",
       "image_is_full_page": false
     },
     {
@@ -635,7 +635,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-35.jpg",
+      "image_url": "/images/round-63-basic/q-35.jpg",
       "image_is_full_page": false
     },
     {
@@ -653,7 +653,7 @@
       "answer": 3,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-36.jpg",
+      "image_url": "/images/round-63-basic/q-36.jpg",
       "image_is_full_page": false
     },
     {
@@ -671,7 +671,7 @@
       "answer": 2,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-37.jpg",
+      "image_url": "/images/round-63-basic/q-37.jpg",
       "image_is_full_page": false
     },
     {
@@ -689,7 +689,7 @@
       "answer": 4,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-38.jpg",
+      "image_url": "/images/round-63-basic/q-38.jpg",
       "image_is_full_page": false
     },
     {
@@ -707,7 +707,7 @@
       "answer": 4,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-39.jpg",
+      "image_url": "/images/round-63-basic/q-39.jpg",
       "image_is_full_page": false
     },
     {
@@ -725,7 +725,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-40.jpg",
+      "image_url": "/images/round-63-basic/q-40.jpg",
       "image_is_full_page": false
     },
     {
@@ -743,7 +743,7 @@
       "answer": 3,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-41.jpg",
+      "image_url": "/images/round-63-basic/q-41.jpg",
       "image_is_full_page": false
     },
     {
@@ -761,7 +761,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-42.jpg",
+      "image_url": "/images/round-63-basic/q-42.jpg",
       "image_is_full_page": false
     },
     {
@@ -779,7 +779,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-43.jpg",
+      "image_url": "/images/round-63-basic/q-43.jpg",
       "image_is_full_page": false
     },
     {
@@ -797,7 +797,7 @@
       "answer": 2,
       "points": 3,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-44.jpg",
+      "image_url": "/images/round-63-basic/q-44.jpg",
       "image_is_full_page": false
     },
     {
@@ -815,7 +815,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-45.jpg",
+      "image_url": "/images/round-63-basic/q-45.jpg",
       "image_is_full_page": false
     },
     {
@@ -833,7 +833,7 @@
       "answer": 3,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-46.jpg",
+      "image_url": "/images/round-63-basic/q-46.jpg",
       "image_is_full_page": false
     },
     {
@@ -851,7 +851,7 @@
       "answer": 1,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-47.jpg",
+      "image_url": "/images/round-63-basic/q-47.jpg",
       "image_is_full_page": false
     },
     {
@@ -869,7 +869,7 @@
       "answer": 4,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-48.jpg",
+      "image_url": "/images/round-63-basic/q-48.jpg",
       "image_is_full_page": false
     },
     {
@@ -887,7 +887,7 @@
       "answer": 1,
       "points": 1,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-49.jpg",
+      "image_url": "/images/round-63-basic/q-49.jpg",
       "image_is_full_page": false
     },
     {
@@ -905,7 +905,7 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main/images/round-63-basic/q-50.jpg",
+      "image_url": "/images/round-63-basic/q-50.jpg",
       "image_is_full_page": false
     }
   ]

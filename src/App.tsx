@@ -19,6 +19,15 @@ import {
 
 type Mode = "randomRound" | "quick" | "full" | "wrong";
 
+// 이미지 호스팅: dev에서는 vite middleware가 로컬 images/를 서빙,
+// prod 빌드(.ait)에서는 jsDelivr CDN으로 부착
+const IMAGE_CDN = "https://cdn.jsdelivr.net/gh/hy39094-ops/korean-history-quiz@main";
+function resolveImageUrl(url: string | null | undefined): string | undefined {
+  if (!url) return undefined;
+  if (url.startsWith("http")) return url;
+  return import.meta.env.PROD ? IMAGE_CDN + url : url;
+}
+
 type View =
   | { name: "home" }
   | { name: "practice"; mode: Mode; questions: Question[]; timed: boolean; pickedRound?: number; preserveOrder?: boolean }
@@ -471,6 +480,75 @@ function Practice(props: {
     (document.activeElement as HTMLElement | null)?.blur();
   }, [idx]);
 
+  // 회차 진입 시 모든 이미지 prefetch — 다 받기 전엔 풀이 화면 대신 로딩 표시
+  const [loadedCount, setLoadedCount] = useState(0);
+  const [forceReady, setForceReady] = useState(false);
+  const imgUrls = useMemo(
+    () => list.map((q) => resolveImageUrl(q.image_url)).filter((u): u is string => !!u),
+    [list],
+  );
+  const totalToLoad = imgUrls.length;
+
+  useEffect(() => {
+    if (totalToLoad === 0) return;
+    setLoadedCount(0);
+    setForceReady(false);
+    let cancelled = false;
+    imgUrls.forEach((url) => {
+      const img = new Image();
+      const done = () => {
+        if (!cancelled) setLoadedCount((c) => c + 1);
+      };
+      img.onload = done;
+      img.onerror = done;
+      img.src = url;
+    });
+    // 안전망: 20초 지나면 부분 로딩이라도 진행
+    const fallback = setTimeout(() => {
+      if (!cancelled) setForceReady(true);
+    }, 20000);
+    return () => {
+      cancelled = true;
+      clearTimeout(fallback);
+    };
+  }, [imgUrls, totalToLoad]);
+
+  const isReady = totalToLoad === 0 || loadedCount >= totalToLoad || forceReady;
+
+  if (!isReady) {
+    const pct = totalToLoad === 0 ? 100 : Math.round((loadedCount / totalToLoad) * 100);
+    return (
+      <div className="screen screen-practice">
+        <header className="practice-header">
+          <button className="icon-btn" aria-label="닫기" onClick={onAbort}>✕</button>
+          <span className="practice-count">문제 준비 중</span>
+          <span style={{ width: 32 }} />
+        </header>
+        <div className="practice-body" style={{ display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column", gap: 16 }}>
+          <div style={{ fontSize: 18, fontWeight: 600 }}>문제 자료를 받고 있어요</div>
+          <div style={{ width: "min(360px, 80%)" }}>
+            <div className="practice-progress" style={{ background: "#e5e7eb", borderRadius: 8, height: 10, overflow: "hidden" }}>
+              <div
+                className="practice-progress-bar"
+                style={{ width: `${pct}%`, background: "#1E40AF", height: "100%", transition: "width 0.2s" }}
+              />
+            </div>
+            <div style={{ textAlign: "center", marginTop: 8, color: "#6b7280", fontSize: 14 }}>
+              {loadedCount} / {totalToLoad} ({pct}%)
+            </div>
+          </div>
+          <button
+            className="ghost-btn"
+            onClick={() => setForceReady(true)}
+            style={{ marginTop: 8, color: "#6b7280", textDecoration: "underline", background: "none", border: "none", cursor: "pointer" }}
+          >
+            건너뛰고 바로 풀기
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   const q = list[idx];
   const currentResponse = responses[idx];
   const revealed = !!currentResponse && !isDeferred;
@@ -560,7 +638,7 @@ function Practice(props: {
         {/* 이미지가 있으면 문제 텍스트는 숨김 (이미지에 모든 내용 포함됨) */}
         {q.image_url ? (
           <div className="question-image-wrap">
-            <img className="question-image" src={q.image_url} alt={`문항 ${q.number} 자료`} />
+            <img className="question-image" src={resolveImageUrl(q.image_url)} alt={`문항 ${q.number} 자료`} />
           </div>
         ) : (
           q.question && (
