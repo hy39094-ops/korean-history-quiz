@@ -5,7 +5,7 @@
   "total": 50,
   "parse_failed_numbers": [],
   "image_dependent_count": 50,
-  "image_rendered_count": 48,
+  "image_rendered_count": 50,
   "image_only_pdf": true,
   "questions": [
     {
@@ -100,8 +100,8 @@
       "answer": 3,
       "points": 3,
       "has_image": true,
-      "image_url": "/images/round-64-advanced/page-01.jpg",
-      "image_is_full_page": true
+      "image_url": "/images/round-64-advanced/q-05.jpg",
+      "image_is_full_page": false
     },
     {
       "id": "R64-A-Q06",
@@ -195,8 +195,8 @@
       "answer": 4,
       "points": 2,
       "has_image": true,
-      "image_url": "/images/round-64-advanced/page-02.jpg",
-      "image_is_full_page": true
+      "image_url": "/images/round-64-advanced/q-10.jpg",
+      "image_is_full_page": false
     },
     {
       "id": "R64-A-Q11",
