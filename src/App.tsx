@@ -537,13 +537,6 @@ function Practice(props: {
               {loadedCount} / {totalToLoad} ({pct}%)
             </div>
           </div>
-          <button
-            className="ghost-btn"
-            onClick={() => setForceReady(true)}
-            style={{ marginTop: 8, color: "#6b7280", textDecoration: "underline", background: "none", border: "none", cursor: "pointer" }}
-          >
-            건너뛰고 바로 풀기
-          </button>
         </div>
       </div>
     );
