@@ -8,6 +8,7 @@ dist/
 build/
 www/
 .ait/
+*.ait
 
 # PDFs (저작권 + 크기 이슈로 git에 안 올림)
 pdfs/
