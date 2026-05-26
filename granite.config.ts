@@ -1,7 +1,7 @@
 import { defineConfig } from "@apps-in-toss/web-framework/config";
 
 export default defineConfig({
-  appName: "korean-history-quiz", // 콘솔 등록 시 변경 가능
+  appName: "korean-history-exam", // 콘솔 등록값과 일치
   brand: {
     displayName: "2026 한국사 기출집", // 콘솔의 한국어 앱 이름과 동일하게
     primaryColor: "#1E40AF",
