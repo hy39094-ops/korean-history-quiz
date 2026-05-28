@@ -1,0 +1,33 @@
+{
+  "name": "한국사검정시험 기출집",
+  "short_name": "한국사 기출",
+  "description": "한국사능력검정시험(한능검) 기출을 회차별·실전 모의고사로 푸는 학습 앱",
+  "lang": "ko",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7fc",
+  "theme_color": "#1E40AF",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
