@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.korean_history_quiz",
+        "sha256_cert_fingerprints": ["25:4E:44:2C:7B:CB:80:4B:12:65:13:79:27:75:EA:61:1F:93:D5:C1:55:33:52:09:12:6D:C9:3C:37:D9:5E:0D"]
+      }
+    }]
